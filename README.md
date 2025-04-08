@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+%40Sang+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;An+Aerospace+Engineering+from+UET-VNU)
 ---
 ### 👩‍💻 About me:
-- 🌱 I'm pursuing Aerospace Engineering degree at [University of Engineering and Technology (UET-VNU)](https://uet.vnu.edu.vn/).
+- 🌱 I'm pursuing Aerospace Engineering Degree at [University of Engineering and Technology (UET-VNU)](https://uet.vnu.edu.vn/).
 - ⚡ Favourite quote: "Half of your beauty comes from the way you treat people".
 - 💬 Feel free to ask me about anything about my work or new opportunities.
 - 📫 Contact me through: [nguyendangsang1003@gmail.com](mailto:nguyendangsang1003@gmail.com).
